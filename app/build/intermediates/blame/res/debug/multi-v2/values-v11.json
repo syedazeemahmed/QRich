@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/maq/AndroidStudioProjects/QRich/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
+            "map": [
+                {
+                    "source": "/home/maq/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-12.0.1.aar/15ffb78a2e09eba6cb46e4c9633fc9d6/res/values-v11/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "172",
+                        "endLines": "5",
+                        "endColumns": "8",
+                        "endOffsets": "293"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "3",
+                        "endColumns": "8",
+                        "endOffsets": "176"
+                    }
+                }
+            ]
+        }
+    ]
+}
